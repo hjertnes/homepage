@@ -1,0 +1,19 @@
+#+TITLE: Homepage
+* General
+- [[https://github.com][Github]]
+- [[https://dog.estate][Mastodon]]
+- [[https://emacsformacosx.com/builds][Emacs for Mac OS X]]
+* My sites
+- [[https://hjertnes.blog][Homepage]]
+- [[https://wiki.hjertnes.blog][Wiki]]
+- [[https://home.hjertnes.blog][Blog]]
+* Web development
+- [[https://www.codetinkerer.com/2015/12/04/choosing-an-http-status-code.html][Http Status Codes]]
+
+* About 
+  This is generated with [[][org + pandoc]] I got the inspiration from it from [[https://afinestart.me/help]]. [[https://github.com/hjertnes/homepage][Source]].
+
+
+
+
+
