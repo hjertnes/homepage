@@ -6,6 +6,8 @@
     --text: #ff414e;
 }
 
+
+
 html{
     font-family: sans-serif;
     height: 100%;
@@ -18,7 +20,6 @@ body {
     margin: 0 0 0 0;
     padding: 5px 5px 5px 5px;
     background-color: var(--bg);
-    overflow-wrap: break;
     font-family: 'Source Code Pro', monospace;
 }
 
@@ -31,6 +32,8 @@ main {
     justify-content: space-around;
     flex-wrap: wrap;
 }
+
+
 
 section {
     max-width: 20vw;
@@ -78,4 +81,18 @@ h5:before {
 h6:before {
     content: "###### 
 ";
+}
+
+@media(max-width: 414px){
+    header {
+	margin-left: 8.25vw;
+    }
+    section{
+	max-width: 80vw;
+	width: 80vw;
+    }
+
+    h1, h2, h3, h4, h5, h6{
+	text-align: left;
+    }    
 }
