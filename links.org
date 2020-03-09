@@ -1,5 +1,6 @@
 #+TITLE: Homepage
 * General
+- [[https://netlify.com][Netlify]]
 - [[https://github.com][Github]]
 - [[https://dog.estate][Mastodon]]
 - [[https://emacsformacosx.com/builds][Emacs for Mac OS X]]
