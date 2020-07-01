@@ -4,9 +4,10 @@
 - [[https://github.com][Github]]
 - [[https://dog.estate][Mastodon]]
 - [[https://emacsformacosx.com/builds][Emacs for Mac OS X]]
-* Masodon
+* Social
 - [[https://pinafore.social/][Pinnafore]]
-- [[https://dog.estate][Instance]]
+- [[https://dog.estate][Mastodon Instance]]
+- [[https://hjertnes.social/twtxt.txt][twtxt]]
 * My sites
 - [[https://hjertnes.blog][Homepage]]
 - [[https://wiki.hjertnes.blog][Wiki]]
