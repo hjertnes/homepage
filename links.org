@@ -4,10 +4,12 @@
 - [[https://github.com][Github]]
 - [[https://dog.estate][Mastodon]]
 - [[https://emacsformacosx.com/builds][Emacs for Mac OS X]]
-* Social
+* Mastodon
 - [[https://pinafore.social/][Pinnafore]]
 - [[https://dog.estate][Mastodon Instance]]
+* twtxt
 - [[https://hjertnes.social/twtxt.txt][twtxt]]
+- [[https://hjertnes.social/timeline.html][Timeline]]
 * My sites
 - [[https://hjertnes.blog][Homepage]]
 - [[https://wiki.hjertnes.blog][Wiki]]
@@ -23,6 +25,12 @@
 - [[https://type-scale.com/][Type Scale]]
 - [[https://accessible-colors.com/]]
 
+* Cheatsheet
+- [[https://tmuxcheatsheet.com/][tmux]]
+- [[https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf][Emacs]]
+- [[https://www.gnu.org/software/emacs/refcards/pdf/survival.pdf][Emacs Survival]]
+- [[https://www.gnu.org/software/emacs/refcards/pdf/dired-ref.pdf][Emacs Dired]]
+- [[https://www.gnu.org/software/emacs/refcards/pdf/orgcard.pdf][Emacs Org Mode]]
 * About 
   This is generated with [[][org + pandoc]] I got the inspiration from it from [[https://afinestart.me/help]]. [[https://github.com/hjertnes/homepage][Source]].
 
