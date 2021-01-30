@@ -1,0 +1,4 @@
+baseURL = "http://home.hjertnes.website/"
+languageCode = "en-us"
+title = "Homepage"
+theme="hjertnes"
