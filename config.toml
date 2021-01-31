@@ -1,4 +1,4 @@
-baseURL = "http://home.hjertnes.website/"
+baseURL = "https://home.hjertnes.website/"
 languageCode = "en-us"
 title = "Homepage"
 theme="hjertnes"
