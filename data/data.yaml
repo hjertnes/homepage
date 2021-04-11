@@ -34,6 +34,8 @@
       url: "https://type-scale.com"
     - title: "A11y colors"
       url: "https://accessible-colors.com/"
+    - title: "Can I Use"
+      url: "https://caniuse.com/" 
 - title: "Cheatsheet"
   links:
     - title: "tmux"
